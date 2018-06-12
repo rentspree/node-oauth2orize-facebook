@@ -8,7 +8,7 @@
   ],
   "license": "MIT",
   "author": "Trung Nguyen <i@meo.guru> (http://meo.guru)",
-  "contributors": "Potsawee Vechpanich <potsawee@rentspree.com>",
+  "contributors": ["Potsawee Vechpanich <potsawee@rentspree.com>"],
   "files": [
     "lib/**/*"
   ],
