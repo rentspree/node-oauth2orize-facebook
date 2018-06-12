@@ -1,6 +1,6 @@
 {
-  "name": "oauth2orize-facebook",
-  "version": "1.0.1",
+  "name": "@rentspree/oauth2orize-facebook",
+  "version": "1.0.2",
   "description": "Facebook token exchange middleware for OAuth2 server toolkit `oauth2orize`.",
   "keywords": [
     "oauth2orize",
@@ -8,11 +8,12 @@
   ],
   "license": "MIT",
   "author": "Trung Nguyen <i@meo.guru> (http://meo.guru)",
+  "contributors": "Potsawee Vechpanich <potsawee@rentspree.com>",
   "files": [
     "lib/**/*"
   ],
   "main": "lib/index.js",
-  "repository": "meoguru/node-oauth2orize-facebook",
+  "repository": "rentspree/node-oauth2orize-facebook",
   "scripts": {
     "test": "eslint lib/"
   },
