@@ -1,6 +1,6 @@
 {
   "name": "@rentspree/oauth2orize-facebook",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Facebook token exchange middleware for OAuth2 server toolkit `oauth2orize`.",
   "keywords": [
     "oauth2orize",

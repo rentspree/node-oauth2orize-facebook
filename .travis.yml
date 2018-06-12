@@ -10,3 +10,6 @@ deploy:
   on:
     tags: true
     repo: rentspree/node-oauth2orize-facebook
+  branches:
+    only:
+      - master
