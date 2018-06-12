@@ -27,6 +27,6 @@
     "oauth2orize": "^1.0.1"
   },
   "devDependencies": {
-    "eslint": "^0.17.1"
+    "eslint": "^4.19.1"
   }
 }
